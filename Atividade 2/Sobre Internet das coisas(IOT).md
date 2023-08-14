@@ -1,4 +1,4 @@
-# Internet das Coisas (IoT)
+# Internet das Coisas (IoT)💻
 
 ## Introdução
 A **Internet das Coisas (IoT)** é uma abordagem revolucionária que está transformando nossa interação com o mundo. Ao conectar dispositivos e objetos físicos à internet, a IoT capacita-os a coletar, trocar e analisar dados de forma autônoma. Isso cria uma rede interconectada de máquinas, sensores e sistemas, permitindo que objetos cotidianos, de eletrodomésticos a veículos, comuniquem-se para oferecer funcionalidades mais inteligentes e eficientes. A evolução da IoT resulta dos avanços em tecnologia de sensores, comunicação sem fio e análise de dados. Ela tem impacto em setores como saúde, agricultura, manufatura e cidades inteligentes, prometendo melhorar eficiência e criar novos modelos de negócios. Apesar dos benefícios, a expansão da IoT levanta preocupações de segurança cibernética e privacidade, já que mais dispositivos coletam informações pessoais. Conforme a IoT avança, é vital equilibrar seus benefícios com uma abordagem responsável para lidar com os desafios relacionados à interconexão de objetos físicos e dados digitais.
@@ -44,4 +44,6 @@ A **Internet das Coisas (IoT)** é uma abordagem revolucionária que está trans
 A Internet das Coisas (IoT) revoluciona nossa relação com o mundo, conectando objetos cotidianos à internet e criando um ecossistema dinâmico de coleta e troca de dados. Apesar dos benefícios notáveis em termos de eficiência e conveniência, desafios como segurança cibernética e privacidade precisam ser enfrentados com seriedade. A IoT está moldando o futuro por meio da integração com a Inteligência Artificial e promete oferecer soluções inovadoras em diversos setores. O progresso nessa direção requer não apenas avanços tecnológicos, mas também um compromisso responsável com questões éticas e regulamentares. À medida que a IoT continua a evoluir, estamos testemunhando uma transformação que impactará profundamente nossa sociedade e a maneira como interagimos com o mundo ao nosso redor.
 
 ## Referências
-- Amazon. O que é a IoT?. Disponível em: [https://www.oracle.com/br/internet-of-things/what-is-iot/](https://www.oracle.com/br/internet-of-things/what-is-iot/). Acesso em:
+-	Amazon. O que é a IoT?. Disponível em: https://www.oracle.com/br/internet-of-things/what-is-iot/. Acesso em: 14 ago. 2023.
+-	Oracle. O que é IoT?. Disponível em: https://aws.amazon.com/pt/what-is/iot/. Acesso em: 14 ago. 2023.
+
