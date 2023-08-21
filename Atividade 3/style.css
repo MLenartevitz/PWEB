@@ -1,0 +1,72 @@
+header
+{ 
+    color:#71b9c7;
+    border-radius:  15px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+    color: #000d0f !important;
+}
+
+ul 
+{
+    list-style-type: none;
+    display: flex;
+    margin-right: 10px;
+    justify-content: space-evenly;
+}
+
+ul li{
+    margin-right: 10px;
+    color:#000d0f;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+section
+{
+    width: 80%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    justify-content: center;
+}
+
+img 
+{
+     width: 20%;
+     margin: 15px;
+     border-radius: 10px;
+     margin: auto;
+     margin-right: 0%;
+}
+
+li a 
+{
+    text-decoration: none;
+}
+
+li a:hover
+{
+    color:#D2D5D9;
+}
+
+li a:visited
+{
+    color:#0000FF;
+}
+
+video
+{
+  width: 35%;
+  margin: 0 auto;
+}
+
+body
+{
+    background-image: url(https://e0.pxfuel.com/wallpapers/971/731/desktop-wallpaper-baby-blue-solid-blue.jpg)
+    
+}
