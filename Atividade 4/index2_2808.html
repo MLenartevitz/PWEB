@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=google">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mikael Natã Lenartevitz Franco">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" href="style.css">
+    <title>Exercicio Forms e CSS </title>
+</head>
+<body></body>
+<main>
+    <form action="" id = "form">
+        <section>
+            <fieldset>
+            <legend>Informações Pessoais Aluno</legend>
+            <label for="Nome">Nome:</label>
+            <input type="text" id = "Nome" name = "Nome" required size="50" maxlength="30" autofocus>
+            <br>
+            <label for="Email">Email:</label>
+            <input type="text" id="Email">
+            <br>
+            <br>
+            <label for="Turma">Turma:</label>
+            <input type="radio" name="turma" id="turma1" checked>
+            <label for="turma1">turma1</label>
+            <input type="radio" name="turma" id="turma2">
+            <label for="turma2">turma2</label>
+            <br>
+            <br>
+            <label for="Disciplina">Disciplina:</label>
+            <input type="checkbox" id="web" nome="Disciplina" value="pweb"checked>
+            <label for="PWEB">PWEB</label>
+
+            <input type="checkbox" id="aorg" nome="Disciplina" value="aorg">
+            <label for="AORG">AORG</label>
+
+            <input type="checkbox" id="Sociedade e Tecnologia" nome="Disciplina" value="Sociedade e Tecnologia">
+            <label for="Sociedade e Tecnologia">Sociedade e Tecnologia</label>
+            <br>
+            <br>
+            <input type="submit" value="Enviar ✔">
+            <button type= "reset">Limpar</button>            
+        </fieldset>
+
+        <fieldset>
+            <legend> Deixe aqui alguma informação sua, como a senha do seu cartão de credito.</legend>
+            <textarea name="mensagem" id="mensagem" cols="50" rows="5"></textarea>
+            <br>
+            <br>
+            <label for="Cidade">Cidade</label>
+            <select name="Cidade" id="Cidade">
+                <option value="Sorocaba">Sorocaba</option>
+                <option value="Tatuí">Tatuí</option>
+                <option value="São Paulo">São Paulo</option>
+                <option value="Votorantim">Votorantim</option>
+                <option value="Capela do Alto">Capela do Alto</option>
+                <option value="Rio de Janeiro">Rio de Janeiro</option>
+            </select>
+            <br>
+            <button type="button">Cancelar</button>
+        </fieldset>
+        </section>
+    </form>
+</main>
+<footer id="Rodapé">
+    <p> Página criada na aula de PWEB - Direitos Reservados = 1023</p>
+</footer>
